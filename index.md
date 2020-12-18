@@ -14,4 +14,4 @@ Not really *all* the things. Just some things.
 
 ## What about other pages on this site?
 
-Does [this](bmeglathery.github.io/somewhere) go somewhere?
+Does [this](somewhere.html) go somewhere?
