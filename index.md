@@ -5,7 +5,7 @@ Not really *all* the things. Just some things.
 
 ## Can we link to the siblings' pages?
 
-[Abradolf Lincler](https://www.linkedin.com/in/andrew-meglathery-b1924b107/)
+[Abradolf Lincler](https://www.twitch.tv/generalCaptain)
 
 [Rick](https://youtu.be/dQw4w9WgXcQ)
 
